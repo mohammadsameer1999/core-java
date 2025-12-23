@@ -1,3 +1,4 @@
+
 # Fitness Monolith
 
 A Spring Boot application for fitness tracking and management.
